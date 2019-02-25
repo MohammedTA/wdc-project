@@ -1,0 +1,21 @@
+body{
+    font-family: 'Changa', sans-serif;
+}
+.container-fluid{
+    padding-right: 0;
+    padding-left: 0;
+}
+.container{
+    margin-top:20px;
+
+}
+
+.breadcrumb, .row, .navbar{
+    direction: rtl;
+}
+.pagination{
+    margin-right: 14px;
+}
+.ads-margin .col-md-12{
+    margin-bottom: 30px;
+}
